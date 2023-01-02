@@ -1,0 +1,33 @@
+{
+  "name": "s06-okanban-api-blue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Maya/S06-oKanban-API-BLUE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Maya/S06-oKanban-API-BLUE/issues"
+  },
+  "homepage": "https://github.com/O-clock-Maya/S06-oKanban-API-BLUE#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "multer": "*",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sanitize-html": "^2.8.0",
+    "sequelize": "^6.27.0"
+  }
+}
